@@ -1,0 +1,6 @@
+
+<struts>
+<constant name="struts.multipart.maxSize" value="1000000000" />
+<!-- 配置编码模式 -->
+<constant name="struts.i18n.encoding" value="UTF-8" />
+</struts>

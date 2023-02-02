@@ -1,0 +1,30 @@
+body{
+    background: url("http://mao.jumiw.com/d/file/bigpic/2020-10-12/06/060354207869.jpg");
+}
+.box{
+    background-color:rgba(246, 242, 242, 0.6); !important;
+    box-shadow: 0 4px 8px rgba(246, 244, 242, 0.53) !important;
+}
+.m-mobile-show{
+    display: none !important;
+}
+.m-shadow-smail{
+    -webkit-box-shadow:0 4px 8px rgba(0, 0, 0, 0.2) !important;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2) !important;
+}
+.m-shadow-smailwithe{
+    -webkit-box-shadow:0 4px 8px rgba(255, 255, 255, 0.96) !important;
+    box-shadow: 0 4px 8px rgba(246, 242, 242, 0.1) !important;
+}
+
+.box .box1{
+    background-color:rgba(246, 242, 242, 0.6); !important;
+    box-shadow: 0 4px 8px rgba(24, 24, 24, 0.53) !important;
+
+}
+.box .box2{
+    background-color:rgba(246, 242, 242, 0.6); !important;
+    box-shadow: 0 4px 8px rgba(10, 10, 10, 0.95) !important;
+
+
+}

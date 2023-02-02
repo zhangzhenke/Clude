@@ -1,0 +1,27 @@
+body{
+    background: url("https://tse1-mm.cn.bing.net/th/id/R-C.583ffc16682d954e99f94787974b49f7?rik=R2nQRE34SH6boA&riu=http%3a%2f%2fwallpapercave.com%2fwp%2fofEIJBX.jpg&ehk=aM%2bCmjsbXI9ib2LnZ%2bTEmmIygBx4l5wEfrnO3XxDDG8%3d&risl=&pid=ImgRaw&r=0");
+}
+.box{
+    background-color:rgba(246, 242, 242, 0.6); !important;
+    box-shadow: 0 4px 8px rgba(246, 244, 242, 0.53) !important;
+}
+.m-mobile-show{
+    display: none !important;
+}
+.m-shadow-smail{
+    -webkit-box-shadow:0 4px 8px rgba(0, 0, 0, 0.2) !important;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2) !important;
+}
+.m-shadow-smailwithe{
+    -webkit-box-shadow:0 4px 8px rgba(255, 255, 255, 0.96) !important;
+    box-shadow: 0 4px 8px rgba(246, 242, 242, 0.1) !important;
+}
+
+.box .box1{
+    background-color: rgba(246, 242, 242, 0.8);
+
+}
+.box .box2{
+    background-color: rgba(246, 242, 242, 1);
+
+}
